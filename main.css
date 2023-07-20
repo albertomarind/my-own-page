@@ -1,0 +1,16 @@
+body{
+    background-color: pink;
+}
+
+img{
+    display: inline-block;
+    transform: rotate(45deg);
+}
+
+button{
+    background-color: red;
+    color:white;
+    border: none;
+    border-radius: 10px;
+}
+
